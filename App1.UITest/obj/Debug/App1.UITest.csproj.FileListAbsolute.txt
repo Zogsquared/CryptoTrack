@@ -1,0 +1,13 @@
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\nunit.engine.dll
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\nunit.engine.api.dll
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\App1.UITest.dll
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\App1.UITest.pdb
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\nunit.framework.dll
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\nunit.framework.pdb
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\Xamarin.UITest.dll
+D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.AssemblyReference.cache
+D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.CoreCompileInputs.cache
+D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.dll
+D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.pdb

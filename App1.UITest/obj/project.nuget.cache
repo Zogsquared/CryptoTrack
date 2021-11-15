@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vMArrmn6SZNFGzma2IURe0hUq727o9alHGBiO8Gh1QxY8erEqvg4nPfCKkFOuu+hI9q7hD24G2LQiRHQxMPNg==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\CryptoTrack\\App1.UITest\\App1.UITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.uitest\\3.0.5\\xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
