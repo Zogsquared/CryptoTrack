@@ -4,21 +4,28 @@
              x:Class="App1.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
-        </Frame>
-        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
-        <Label FontSize="16" Padding="30,24,30,0">
-            <Label.FormattedText>
-                <FormattedString>
-                    <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
-                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
-                    </FormattedString.Spans>
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
+        <ListView x:Name="coinListView" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                   <!-- <ImageCell 
+                        Text="{Binding name}" 
+                        Detail="{Binding price_usd, StringFormat='{}{0:c}'}" 
+                        ImageSource="{Binding icon_url}" 
+                    /> -->
+                    <ViewCell Height="70">
+                        <StackLayout Orientation="Horizontal" Padding="10,10,10,10">
+                            <Image Source="{Binding icon_url}" WidthRequest="70" />
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="{Binding name}" />
+                                <Label Text="{Binding asset_id}" />
+                            </StackLayout>
+                            <Label Text="{Binding price_usd, StringFormat='{}{0:c}'}" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Padding="0,0,20,0" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button x:Name="RefreshButton" Clicked="RefreshButton_Clicked" Text="Refresh"></Button>
     </StackLayout>
 
 </ContentPage>

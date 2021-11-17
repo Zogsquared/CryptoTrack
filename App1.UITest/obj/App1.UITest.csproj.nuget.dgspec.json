@@ -10,7 +10,7 @@
         "projectUniqueName": "D:\\Github\\CryptoTrack\\App1.UITest\\App1.UITest.csproj",
         "projectName": "App1.UITest",
         "projectPath": "D:\\Github\\CryptoTrack\\App1.UITest\\App1.UITest.csproj",
-        "packagesPath": "C:\\Users\\shutm\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Github\\CryptoTrack\\App1.UITest\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
@@ -18,7 +18,7 @@
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\shutm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
