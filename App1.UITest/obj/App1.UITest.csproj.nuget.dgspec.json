@@ -49,6 +49,10 @@
             "Xamarin.UITest": {
               "target": "Package",
               "version": "[3.0.5, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           }
         }

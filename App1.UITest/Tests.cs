@@ -29,7 +29,7 @@ namespace App1.UITest
         public void StartupText()
         {
 
-
+            app.Tap(c => c.Marked("RefreshButton"));
 
             AppResult[] results = app.WaitForElement(c => c.Id("message").Text("Would you like to refresh?"));
             app.Screenshot("Refresh button.");

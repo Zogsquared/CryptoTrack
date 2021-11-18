@@ -1,11 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "+QIA0qTB/gGcNythBOsYkaR0ux3WjNZO4/fma1qsmNac9vQszWWW44Zi2yVyzmnhSMsJfslD1EjfyCeHdWc9Mw==",
+  "dgSpecHash": "SUmEvrL/qv5C9Z1rSvRhChn4erOdx9bCQvqkTyQM7budD1tCj/bZj+E+5ATQhZ/1iC6co6JXQcA/hBLQLBpwCQ==",
   "success": true,
   "projectFilePath": "D:\\Github\\CryptoTrack\\App1.UITest\\App1.UITest.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.uitest\\3.0.5\\xamarin.uitest.3.0.5.nupkg.sha512"
   ],
   "logs": []
