@@ -26,12 +26,15 @@ namespace App1.UITest
         }
 
         [Test]
-        public void WelcomeTextIsDisplayed()
+        public void StartupText()
         {
-            AppResult[] results = app.WaitForElement(c => c.Marked("Welcome to Xamarin.Forms!"));
-            app.Screenshot("Welcome screen.");
 
-            Assert.IsTrue(results.Any());
+
+
+            AppResult[] results = app.WaitForElement(c => c.Id("message").Text("Would you like to refresh?"));
+            app.Screenshot("Refresh button.");
+
+            Assert.IsTrue(results.Any(), "The error message is not being displayed.");
         }
     }
 }

@@ -23,9 +23,13 @@ namespace App1
 
         }
 
-        private void RefreshButton_Clicked(object sender, EventArgs e)
+        private async void RefreshButton_Clicked(object sender, EventArgs e)
         {
-            coinListView.ItemsSource = GetCoins();
+            bool answer = await DisplayAlert("CAUTION", "Would you like to refresh?", "NO", "YES");
+            if (answer == false)
+            {
+                coinListView.ItemsSource = GetCoins();
+            }
         }
 
         private List<Coin> GetCoins()

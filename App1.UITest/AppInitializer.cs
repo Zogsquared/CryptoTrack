@@ -11,7 +11,7 @@ namespace App1.UITest
             if (platform == Platform.Android)
             {
                 return ConfigureApp.Android
-                    .InstalledApp("com.companyname.app1")
+                    .InstalledApp("zog.cryptotrack")
                     .EnableLocalScreenshots()
                     .StartApp();
             }
