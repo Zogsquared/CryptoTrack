@@ -6,11 +6,6 @@ D:\Github\CryptoTrack\App1.UITest\bin\Debug\App1.UITest.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\App1.UITest.pdb
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\nunit.framework.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\nunit.framework.pdb
-D:\Github\CryptoTrack\App1.UITest\bin\Debug\Xamarin.UITest.dll
-D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.AssemblyReference.cache
-D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.CoreCompileInputs.cache
-D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.dll
-D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.pdb
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\SQLite-net.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\SQLitePCLRaw.batteries_v2.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\SQLitePCLRaw.nativelibrary.dll
@@ -20,6 +15,7 @@ D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Buffers.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Memory.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Numerics.Vectors.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Github\CryptoTrack\App1.UITest\bin\Debug\Xamarin.UITest.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\Microsoft.Win32.Primitives.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\netstandard.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.AppContext.dll
@@ -116,3 +112,8 @@ D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Xml.XmlDocument.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Xml.XmlSerializer.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Xml.XPath.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.AssemblyReference.cache
+D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.CoreCompileInputs.cache
+D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.CopyComplete
+D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.dll
+D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.pdb
