@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ppr3jmKXONSzaERXcpbhKTaMoKGHHRLOeItxEbrJ4L2zTJGKaNN5IohcpyZCpVC0R3/GSQiHvKg+pl7ciUf1AQ==",
+  "dgSpecHash": "BB7Cp1Uyf+OvkftdosCSRHfSnRxuizxZEjxu3DwypnFnKNInUd3RpvDfuUXc5ocH0qZSwq5f4pea+JhXcbIPew==",
   "success": true,
   "projectFilePath": "D:\\Github\\CryptoTrack\\App1\\App1.Android\\App1.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.appcenter\\4.4.0\\microsoft.appcenter.4.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.appcenter.analytics\\4.4.0\\microsoft.appcenter.analytics.4.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.appcenter.crashes\\4.4.0\\microsoft.appcenter.crashes.4.4.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",

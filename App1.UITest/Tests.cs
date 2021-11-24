@@ -31,7 +31,7 @@ namespace App1.UITest
         {
 
             app.Tap(c => c.Marked("RefreshButton"));
-            app.Screenshot("Button Pressed.");
+            //app.Screenshot("Button Pressed.");
 
             AppResult[] results = app.Query(c => c.Id("message").Text("Would you like to refresh?"));
             app.Screenshot("Results.");

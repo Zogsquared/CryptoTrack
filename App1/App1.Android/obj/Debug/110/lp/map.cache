@@ -1,4 +1,10 @@
 FormsViewGroup.dll
+Microsoft.AppCenter.Analytics.Android.Bindings.dll
+Microsoft.AppCenter.Analytics.dll
+Microsoft.AppCenter.Android.Bindings.dll
+Microsoft.AppCenter.Crashes.Android.Bindings.dll
+Microsoft.AppCenter.Crashes.dll
+Microsoft.AppCenter.dll
 SQLitePCLRaw.lib.e_sqlite3.android.dll
 Xamarin.AndroidX.Activity.dll
 Xamarin.AndroidX.Annotation.dll
