@@ -25,7 +25,7 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        <Button x:Name="RefreshButton" Clicked="RefreshButton_Clicked" Text="Refresh"></Button>
+        <Button x:Name="RefreshButton" AutomationId="RefreshButton" Clicked="RefreshButton_Clicked" Text="Refresh"></Button>
     </StackLayout>
 
 </ContentPage>

@@ -10,10 +10,11 @@ namespace App1.UITest
         {
             if (platform == Platform.Android)
             {
-                return ConfigureApp.Android
+                return ConfigureApp
+                    .Android
                     .InstalledApp("zog.cryptotrack")
                     .EnableLocalScreenshots()
-                    .StartApp();
+                    .StartApp(Xamarin.UITest.Configuration.AppDataMode.DoNotClear);
             }
             else
             {

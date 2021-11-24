@@ -114,6 +114,5 @@ D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Xml.XPath.dll
 D:\Github\CryptoTrack\App1.UITest\bin\Debug\System.Xml.XPath.XDocument.dll
 D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.AssemblyReference.cache
 D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.CoreCompileInputs.cache
-D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.csproj.CopyComplete
 D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.dll
 D:\Github\CryptoTrack\App1.UITest\obj\Debug\App1.UITest.pdb
