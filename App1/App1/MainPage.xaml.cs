@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Newtonsoft.Json;
 using App1.Model;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 
 namespace App1
@@ -29,13 +32,27 @@ namespace App1
             bool answer = await DisplayAlert("CAUTION", "Would you like to refresh?", "NO", "YES");
             if (answer == false)
             {
-                coinListView.ItemsSource = GetCoins();
+                
+                try
+                {
+                    // your code here.
+                    coinListView.ItemsSource = GetCoins();
+
+                }
+                catch (Exception exception)
+                {
+                    Crashes.TrackError(exception);
+                }
+                //Crashes.GenerateTestCrash();
+
+                
             }
         }
 
         private List<Coin> GetCoins()
         {
             List<Coin> coins;
+            Analytics.TrackEvent("GetCoins");
 
 
             var client = new RestClient("http://rest.coinapi.io/v1/assets?filter_asset_id=BTC;ETH;XMR;LTC;USDT");

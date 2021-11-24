@@ -1,6 +1,6 @@
-App1.Droid.MainActivity, App1.Android;crc64ad68f59cd763e462.MainActivity
-App1.Droid.MainActivity;crc64ad68f59cd763e462.MainActivity
-app1.droid.MainActivity;crc64ad68f59cd763e462.MainActivity
+App1.Droid.MainActivity, cryptoTrack;crc64e9980465660c2254.MainActivity
+App1.Droid.MainActivity;crc64e9980465660c2254.MainActivity
+app1.droid.MainActivity;crc64e9980465660c2254.MainActivity
 Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.AppCenter.Analytics.Android.Bindings;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
 Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
 mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor

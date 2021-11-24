@@ -1,0 +1,15 @@
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\App1.csproj.AssemblyReference.cache
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\App1.AssemblyInfo.cs
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\Github\CryptoTrack\App1\App1\bin\Release\netstandard2.0\App1.deps.json
+D:\Github\CryptoTrack\App1\App1\bin\Release\netstandard2.0\App1.dll
+D:\Github\CryptoTrack\App1\App1\bin\Release\netstandard2.0\ref\App1.dll
+D:\Github\CryptoTrack\App1\App1\bin\Release\netstandard2.0\App1.pdb
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\XamlC.stamp
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\App1.dll
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\ref\App1.dll
+D:\Github\CryptoTrack\App1\App1\obj\Release\netstandard2.0\App1.pdb

@@ -1,5 +1,3 @@
-D:\Github\CryptoTrack\App1\App1.Android\bin\Debug\App1.Android.dll
-D:\Github\CryptoTrack\App1\App1.Android\bin\Debug\App1.Android.pdb
 D:\Github\CryptoTrack\App1\App1.Android\bin\Debug\zog.cryptotrack.apk
 D:\Github\CryptoTrack\App1\App1.Android\bin\Debug\zog.cryptotrack.aab
 D:\Github\CryptoTrack\App1\App1.Android\bin\Debug\zog.cryptotrack-Signed.aab
@@ -21,8 +19,6 @@ D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\lp\80\jl\files.cache
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\R.txt
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\R.cs.flag
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\App1.Android.csproj.CoreCompileInputs.cache
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\App1.Android.dll
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\App1.Android.pdb
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\bin\zog.cryptotrack.apk
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\bin\base.zip
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\bin\zog.cryptotrack.aab
@@ -43,8 +39,6 @@ D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.pn
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\uploadflags.txt
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\resolvedassemblies.hash
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\App1.Android.dll
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\App1.Android.pdb
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\App1.dll
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\App1.pdb
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
@@ -202,8 +196,6 @@ D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\Xamarin.Goo
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.arm64-v8a.s
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.armeabi-v7a.s
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.x86.s
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.x86_64.s
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.armeabi-v7a-shared.inc
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.shared.inc
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\AndroidManifest.xml
@@ -216,8 +208,6 @@ D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\static.flag
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\buildid.txt
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\environment.arm64-v8a.s
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\environment.armeabi-v7a.s
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\environment.x86.s
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\environment.x86_64.s
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
@@ -472,7 +462,6 @@ D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\crc64a25b61d9f
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\crc64ad68f59cd763e462\MainActivity.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ButtonRenderer.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\FrameRenderer.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ImageRenderer.java
@@ -545,24 +534,14 @@ D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\bin\packaged_resou
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\zog\cryptotrack\R.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.s
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.s
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\compressed_assemblies.x86.s
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\compressed_assemblies.x86_64.s
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.arm64-v8a.o
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.armeabi-v7a.o
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.x86.o
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\typemaps.x86_64.o
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\environment.arm64-v8a.o
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\environment.armeabi-v7a.o
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\environment.x86.o
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\environment.x86_64.o
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\compressed_assemblies.x86.o
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\compressed_assemblies.x86_64.o
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\app_shared_libraries\x86\libxamarin-app.so
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\app_shared_libraries\x86_64\libxamarin-app.so
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\bin\classes.dex
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\stamp\_CompileToDalvik.stamp
@@ -586,7 +565,6 @@ D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\lp\82\jl\files.cache
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\lp\83\jl\files.cache
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\lp\86\jl\files.cache
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\lp\94\jl\files.cache
-D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\App1.Android.csproj.CopyComplete
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\Microsoft.AppCenter.Analytics.dll
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\Microsoft.AppCenter.Android.Bindings.dll
@@ -602,3 +580,10 @@ D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\mono\com\micro
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\mono\com\microsoft\appcenter\crashes\CrashesListenerImplementor.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\mono\com\microsoft\appcenter\utils\context\UserIdContext_ListenerImplementor.java
 D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\mono\com\microsoft\appcenter\utils\NetworkStateHelper_ListenerImplementor.java
+D:\Github\CryptoTrack\App1\App1.Android\bin\Debug\cryptoTrack.dll
+D:\Github\CryptoTrack\App1\App1.Android\bin\Debug\cryptoTrack.pdb
+D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\cryptoTrack.dll
+D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\cryptoTrack.pdb
+D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\cryptoTrack.dll
+D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\assets\cryptoTrack.pdb
+D:\Github\CryptoTrack\App1\App1.Android\obj\Debug\110\android\src\crc64e9980465660c2254\MainActivity.java

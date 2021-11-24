@@ -1,8 +1,8 @@
 package mono;
 public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
-		/* We need to ensure that "App1.Android.dll" comes first in this list. */
-		"App1.Android.dll",
+		/* We need to ensure that "cryptoTrack.dll" comes first in this list. */
+		"cryptoTrack.dll",
 		"App1.dll",
 		"FormsViewGroup.dll",
 		"Microsoft.AppCenter.Analytics.Android.Bindings.dll",

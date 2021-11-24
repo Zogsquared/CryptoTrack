@@ -37910,7 +37910,7 @@
 	.section	.rodata.java_type_name.6318,"aMS",%progbits,1
 	.type	.L.java_type_name.6318, %object
 .L.java_type_name.6318:
-	.asciz	"crc64ad68f59cd763e462/MainActivity"
+	.asciz	"crc64e9980465660c2254/MainActivity"
 	.size	.L.java_type_name.6318, 35
 
 	.section	.rodata.java_type_name.6319,"aMS",%progbits,1
@@ -84197,8 +84197,8 @@
 	.section	.rodata.managed_type_name.5862,"aMS",%progbits,1
 	.type	.L.managed_type_name.5862, %object
 .L.managed_type_name.5862:
-	.asciz	"App1.Droid.MainActivity, App1.Android"
-	.size	.L.managed_type_name.5862, 38
+	.asciz	"App1.Droid.MainActivity, cryptoTrack"
+	.size	.L.managed_type_name.5862, 37
 	.section	.rodata.managed_type_name.5863,"aMS",%progbits,1
 	.type	.L.managed_type_name.5863, %object
 .L.managed_type_name.5863:
