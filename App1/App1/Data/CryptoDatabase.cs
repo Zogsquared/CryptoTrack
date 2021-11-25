@@ -6,7 +6,7 @@ using App1.Model;
 
 namespace App1.Data
 {
-    class CryptoDatabase
+    public class CryptoDatabase
     {
         readonly SQLiteAsyncConnection database;
 
@@ -30,24 +30,24 @@ namespace App1.Data
                             .FirstOrDefaultAsync();
         }
 
-        public Task<int> SaveNoteAsync(Cryptos note)
+        public Task<int> SaveNoteAsync(Cryptos cryptos)
         {
-            if (note.ID != 0)
+            if (cryptos.ID != 0)
             {
                 // Update an existing note.
-                return database.UpdateAsync(note);
+                return database.UpdateAsync(cryptos);
             }
             else
             {
                 // Save a new note.
-                return database.InsertAsync(note);
+                return database.InsertAsync(cryptos);
             }
         }
 
-        public Task<int> DeleteNoteAsync(Cryptos note)
+        public Task<int> DeleteNoteAsync(Cryptos cryptos)
         {
             // Delete a note.
-            return database.DeleteAsync(note);
+            return database.DeleteAsync(cryptos);
         }
     }
 }
